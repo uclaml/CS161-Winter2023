@@ -17,10 +17,11 @@ Python
 - Location: Boelter 3400  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
 - Teaching Assistant: 
-    - [Yue Wu] (Email: wuy at ucla dot edu) 
+    - [Xuheng Li] (Email: xuhengli99 at ucla dot edu)
     - [Jiafan He] (Email: jiafanhe19 at ucla dot edu)
     - [Weitong Zhang] (Email: weightzero at ucla dot edu)
-    - [Xuheng Li] (Email: xuhengli99 at ucla dot edu)
+    - [Yue Wu] (Email: wuy at ucla dot edu) 
+    
 - Discussion Sections:
 	 - Dis 1A - Xuheng Li - Boelter Hall 5280 - 10am - 11:50am
 	 - Dis 1B - Jiafan He - Boelter Hall 5419 - 12pm - 1:50pm
@@ -33,9 +34,10 @@ Python
 - Office hours: 
     - The instructor's office hour is Wednesday 9:00am-10:00am in EVI 382. 
     - The TA's office hour is: 
-        - Yue Wu, Thursday 10:00AM - 12:00PM 
-        - Jiafan He, Wednesday 2:00PM - 4:00PM 
-        - Weitong Zhang, Monday 5:00PM - 6:00PM  Tuesday 11:00AM -1:00PM 
+        - Xuheng Li, Tuesday 12:00PM - 2:00PM, Boelter 3256S-D 
+        - Jiafan He, Monday 10:00 - 12:00PM boelter 3256S-D 
+        - Weitong Zhang, Thursday 4:00PM - 6:00PM, Boelter 3256S-A 
+        - Yue Wu, Wednesday 2:00 - 4:00PM, Boelter 3256S-D
                 
 - Course Website: [https://uclaml.github.io/CS161-Winter2023/](https://uclaml.github.io/CS161-Winter2023/)
 - Course Forum: [https://piazza.com/ucla/winter2023/cs161/home](https://piazza.com/ucla/winter2023/cs161/home)
