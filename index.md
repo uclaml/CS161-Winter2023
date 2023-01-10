@@ -71,12 +71,12 @@ Grades will be computed based on the following factors:
 | 8 | 2/2 | [Constraint satisfaction]() | Chapter 6 | |
 | 9 | 2/7 | [Game playing]() | Chapter 5 |  |
 | 10 | 2/9 | [Game playing]() | Chapter 5 | Hw4 Out |
-| 11 | 2/14 | [Propositional logic]() | Chapter 7 | HW3 Due (extended) |
+| 11 | 2/14 | [Propositional logic]() | Chapter 7 | HW3 Due |
 |  | 2/16 | [Midterm Exam]() | | |
-| 12 | 2/21 | [Propositional logic]() | Chapter 7 | HW4 Due (extended), HW5 Out |
+| 12 | 2/21 | [Propositional logic]() | Chapter 7 | HW4 Due, HW5 Out |
 | 13 | 2/23 | [Propositional logic]() | Chapter 7 |  |
 | 14 | 2/28 | [First-order logic: representation]() | Chapter 8 |  |
-| 15 | 3/2 | [First-order logic: representation]() | Chapter 8 | HW5 Due (extended), HW6 Out|
+| 15 | 3/2 | [First-order logic: representation]() | Chapter 8 | HW5 Due, HW6 Out|
 | 16 | 3/7 | [First-order logic: inference]() | Chapter 9 |  |
 | 17 | 3/9 | [Reasoning under uncertainty]() | Chapter 11 |   |
 | 18 | 3/14 | [Bayesian Networks I]() | Chapter 13 | |
@@ -87,7 +87,7 @@ Grades will be computed based on the following factors:
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
 
 ## Homework
-There will be 6 homework assignments during the semester as we cover the corresponding material. Homework consists of both problem solving and LISP programming. The lowest homework score will be dropped for you.
+There will be 6 homework assignments during the semester as we cover the corresponding material. Homework consists of both problem solving and programming. The lowest homework score will be dropped for you.
 
 Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including Internet websites. Students should never see another student's solution before submitting their own. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances.Homework assignments will be submitted through bruinlearn. 
 
