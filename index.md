@@ -1,6 +1,6 @@
 
 ## Overview
-This course introduces the design of intelligent agents, including the fundamental problem-solving and knowledge-representation paradigms of artificial intelligence. Topics to be covered include the AI programming language LISP, state-space and problem reduction methods, brute-force and heuristic search, two-player games, and recent developments in game AI. For knowledge representation and reasoning, we will cover propositional and first-order logic and their inference algorithms. Finally, the course covers probabilistic approaches to AI, such as Bayesian networks to improve the agent’s performance with experience.
+This course introduces the design of intelligent agents, including the fundamental problem-solving and knowledge-representation paradigms of artificial intelligence. Topics to be covered include state-space and problem reduction methods, brute-force and heuristic search, two-player games, and recent developments in game AI. For knowledge representation and reasoning, we will cover propositional and first-order logic and their inference algorithms. Finally, the course covers probabilistic approaches to AI, such as Bayesian networks to improve the agent’s performance with experience.
 
 ### Prerequisites
 This course requires knowledge of basic computer science, algorithms and complexity (CS180), and programming principles.
@@ -9,20 +9,29 @@ This course requires knowledge of basic computer science, algorithms and complex
 Stuart Russell and Peter Norvig. Artificial Intelligence: A Modern Approach. (3rd Edition), Pearson 2009.
 
 ### Programming Language
-LISP
+Python
 
 ## Logistics
 <!--University of California, Los Angeles  -->
 - Time: **Tuesday and Thursday 2:00PM - 3:50PM**
-- Location: MS 4000A (when in person) [Zoom Link](https://ucla.zoom.us/j/94911413056) (when online)  
+- Location: Boelter 3400  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
 - Teaching Assistant: 
-    - [Yue Wu] (Email: wuy at ucla dot edu)
+    - [Yue Wu] (Email: wuy at ucla dot edu) 
     - [Jiafan He] (Email: jiafanhe19 at ucla dot edu)
     - [Weitong Zhang] (Email: weightzero at ucla dot edu)
+    - [Xuheng Li] (Email: xuhengli99 at ucla dot edu)
+- Discussion Sections:
+	 - Dis 1A - Xuheng Li - Boelter Hall 5280 - 10am - 11:50am
+	 - Dis 1B - Jiafan He - Boelter Hall 5419 - 12pm - 1:50pm
+	 - Dis 1C - Weitong Zhang - Franz Hall 1178 - 2pm - 3:50pm
+	 - Dis 1D - Yue Wu - Dodd Hall 170- 4pm - 5:50pm
+
+
+
     
 - Office hours: 
-    - The instructor's office hour is Monday/Wednesday 9:00am-10:00am on ([Zoom Link](https://ucla.zoom.us/j/98281567711)). 
+    - The instructor's office hour is Wednesday 9:00am-10:00am in EVI 382. 
     - The TA's office hour is: 
         - Yue Wu, Thursday 10:00AM - 12:00PM ([Zoom Link](https://ucla.zoom.us/j/98760163747)) 
         - Jiafan He, Wednesday 2:00PM - 4:00PM ([Zoom Link](https://ucla.zoom.us/j/93746859322))
@@ -49,28 +58,27 @@ Grades will be computed based on the following factors:
 
 | #  | Date  | Topics  |  Reading | Homework  |
 |---|---|---|---|---|
-| 1  | 1/4  |  [About Course](https://www.dropbox.com/s/dljrz37wz8lqhrl/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/71rgvyrfp9dgb7a/Lecture1.pdf?dl=0) |  Chapter 1,2 |   |
-| 2 | 1/6 | [LISP](https://www.dropbox.com/s/abit3emfhgyceww/Lecture2.pdf?dl=0) | | |
-| 3 | 1/11 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/aocaomv9c52hex7/Lecture3.pdf?dl=0) | Chapter 3 | |
-| 4 | 1/13 | [Uninformed search strategies](https://www.dropbox.com/s/lwwxo28aee5bshv/Lecture3.pdf?dl=0) | Chapter 3 | HW1 Out |
-| 5 | 1/18 | [Informed search strategies](https://www.dropbox.com/s/uzq91zitqyvgjwz/Lecture4.pdf?dl=0)| Chapter 3 |  |
-| 6 | 1/20 | [Local Search Algorithms](https://www.dropbox.com/s/wjxsyzv4399vb6m/Lecture5.pdf?dl=0) | Chapter 4 | HW1 Due, HW2 Out|
-| 7 | 1/25 | [Constraint satisfaction](https://www.dropbox.com/s/o9xt88rcn5hkphm/Lecture6.pdf?dl=0) | Chapter 6 | |
-| 8 | 1/27 | [Constraint satisfaction](https://www.dropbox.com/s/o9xt88rcn5hkphm/Lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out|
-| 9 | 2/1 | [Constraint satisfaction](https://www.dropbox.com/s/zzke2lmgq8tfkt0/Lecture7.pdf?dl=0) | Chapter 6 | |
-| 10 | 2/3 | [Game playing](https://www.dropbox.com/s/zzke2lmgq8tfkt0/Lecture7.pdf?dl=0) | Chapter 5 |  |
-| 11 | 2/8 | [Game playing](https://www.dropbox.com/s/iwm7wz5gf47s5hx/Lecture7.pdf?dl=0) | Chapter 5 | Hw4 Out |
-| 12 | 2/10 | [Propositional logic](https://www.dropbox.com/s/7idbzh6j120hxpd/Lecture8.pdf?dl=0) | Chapter 7 | HW3 Due (extended) |
-|  | 2/15 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | |
-| 13 | 2/17 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 | HW4 Due (extended), HW5 Out |
-| 14 | 2/22 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 |  |
-| 15 | 2/24 | [First-order logic: representation](https://www.dropbox.com/s/nvrtwczkrzl0hdg/Lecture9.pdf?dl=0) | Chapter 8 |  |
-| 16 | 3/1 | [First-order logic: representation](https://www.dropbox.com/s/7g5o5vfof4jd1e4/Lecture9.pdf?dl=0) | Chapter 8 | HW5 Due (extended), HW6 Out|
-| 17 | 3/3 | [First-order logic: inference](https://www.dropbox.com/s/h8cw1phq6ev7hu4/Lecture10.pdf?dl=0) | Chapter 9 |  |
-| 18 | 3/8 | [Reasoning under uncertainty](https://www.dropbox.com/s/zuw4xceha35aap1/Lecture11.pdf?dl=0) | Chapter 11 |   |
-| 19 | 3/11 | [Bayesian Networks](https://www.dropbox.com/s/az5cbwepke72vj4/Lecture12.pdf?dl=0) | Chapter 13 | HW6 Due |
-|  | 3/16 | 8:00AM-11:00AM Final Exam | |  |
-|  | 3/18 | | |   |
+| 1  | 1/10  |  [About Course](https://www.dropbox.com/s/dljrz37wz8lqhrl/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/71rgvyrfp9dgb7a/Lecture1.pdf?dl=0) |  Chapter 1,2 |   |
+| 2 | 1/12 | [Problem solving as search & Uninformed search strategies]() | Chapter 3 | |
+| 3 | 1/17 | [Uninformed search strategies]() | Chapter 3 | HW1 Out |
+| 4 | 1/19 | [Informed search strategies]()| Chapter 3 |  |
+| 5 | 1/24 | [Local Search Algorithms]() | Chapter 4 | HW1 Due, HW2 Out|
+| 6 | 1/26 | [Constraint satisfaction]() | Chapter 6 | |
+| 7 | 1/31 | [Constraint satisfaction]() | Chapter 6 | HW2 Due, HW3 Out|
+| 8 | 2/2 | [Constraint satisfaction]() | Chapter 6 | |
+| 9 | 2/7 | [Game playing]() | Chapter 5 |  |
+| 10 | 2/9 | [Game playing]() | Chapter 5 | Hw4 Out |
+| 11 | 2/14 | [Propositional logic]() | Chapter 7 | HW3 Due (extended) |
+|  | 2/16 | [Midterm Exam]() | | |
+| 12 | 2/21 | [Propositional logic]() | Chapter 7 | HW4 Due (extended), HW5 Out |
+| 13 | 2/23 | [Propositional logic]() | Chapter 7 |  |
+| 14 | 2/28 | [First-order logic: representation]() | Chapter 8 |  |
+| 15 | 3/2 | [First-order logic: representation]() | Chapter 8 | HW5 Due (extended), HW6 Out|
+| 16 | 3/7 | [First-order logic: inference]() | Chapter 9 |  |
+| 17 | 3/9 | [Reasoning under uncertainty]() | Chapter 11 |   |
+| 18 | 3/14 | [Bayesian Networks I]() | Chapter 13 | |
+| 19 | 3/16 | [Bayesian Networks II]() | Chapter 13 | HW6 Due |
+|  | 3/22 | 3:00PM-6:00PM Final Exam | |  |
 
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
@@ -88,4 +96,4 @@ There will be 6 in-class online quiz (on bruinlearn) for the purpose of reviewin
 
 ## Exams
 
-There will be one midterm and then final. The exam is online (on bruinlearn) and open book and note. You are not allowed to discuss with other people.
+There will be one midterm and then final. The exam is in person and open book and note. You are not allowed to discuss with other people.
