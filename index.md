@@ -33,12 +33,13 @@ Python
 - Office hours: 
     - The instructor's office hour is Wednesday 9:00am-10:00am in EVI 382. 
     - The TA's office hour is: 
-        - Yue Wu, Thursday 10:00AM - 12:00PM ([Zoom Link](https://ucla.zoom.us/j/98760163747)) 
-        - Jiafan He, Wednesday 2:00PM - 4:00PM ([Zoom Link](https://ucla.zoom.us/j/93746859322))
-        - Weitong Zhang, Monday 5:00PM - 6:00PM ([Zoom Link](https://ucla.zoom.us/j/91965104584)) Tuesday 11:00AM -1:00PM ([Zoom Link](https://ucla.zoom.us/j/94476756057))
-- Course Website: [https://uclaml.github.io/CS161-Winter2022/](https://uclaml.github.io/CS161-Winter2022/)
-- Course Forum: [https://piazza.com/ucla/winter2022/cs161/home](https://piazza.com/ucla/winter2022/cs161/home)
-(If you haven’t already, [sign up here](piazza.com/ucla/winter2022/cs161).)
+        - Yue Wu, Thursday 10:00AM - 12:00PM 
+        - Jiafan He, Wednesday 2:00PM - 4:00PM 
+        - Weitong Zhang, Monday 5:00PM - 6:00PM  Tuesday 11:00AM -1:00PM 
+                
+- Course Website: [https://uclaml.github.io/CS161-Winter2023/](https://uclaml.github.io/CS161-Winter2023/)
+- Course Forum: [https://piazza.com/ucla/winter2023/cs161/home](https://piazza.com/ucla/winter2023/cs161/home)
+(If you haven’t already, [sign up here](https://piazza.com/ucla/winter2023/cs161).)
 
 
 
