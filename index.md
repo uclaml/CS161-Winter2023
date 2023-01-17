@@ -63,8 +63,8 @@ Grades will be computed based on the following factors:
 |---|---|---|---|---|
 | 1  | 1/10  |  [About Course](https://www.dropbox.com/s/co567rteom25kxd/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/71rgvyrfp9dgb7a/Lecture1.pdf?dl=0) |  Chapter 1,2 |   |
 | 2 | 1/12 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/bu5u9pvylljla5b/Lecture2.pdf?dl=0) | Chapter 3 | |
-| 3 | 1/17 | [Uninformed search strategies](https://www.dropbox.com/s/bu5u9pvylljla5b/Lecture2.pdf?dl=0) | Chapter 3 | HW1 Out |
-| 4 | 1/19 | [Informed search strategies]()| Chapter 3 |  |
+| 3 | 1/17 | [Uninformed search strategies](https://www.dropbox.com/s/7rjsh7lytq7tdhj/Lecture3.pdf?dl=0) | Chapter 3 | HW1 Out |
+| 4 | 1/19 | [Informed search strategies](https://www.dropbox.com/s/bji1ofmklhb21um/Lecture4.pdf?dl=0)| Chapter 3 |  |
 | 5 | 1/24 | [Local Search Algorithms]() | Chapter 4 | HW1 Due, HW2 Out|
 | 6 | 1/26 | [Constraint satisfaction]() | Chapter 6 | |
 | 7 | 1/31 | [Constraint satisfaction]() | Chapter 6 | HW2 Due, HW3 Out|
