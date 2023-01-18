@@ -95,7 +95,7 @@ Please submit your homework on time. Homework is worth full credit before the du
 
 ## Quiz
 
-There will be 6 in-class online quiz (on bruinlearn) for the purpose of reviewing the newly learned concepts. The quizzes are open textbook. We will drop the lowest quiz score for you.
+There will be 6 in-class paper-based quiz (on bruinlearn) for the purpose of reviewing the newly learned concepts. The quizzes are open textbook. We will drop the lowest quiz score for you.
 
 ## Exams
 
