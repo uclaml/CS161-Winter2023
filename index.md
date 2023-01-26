@@ -65,8 +65,8 @@ Grades will be computed based on the following factors:
 | 2 | 1/12 | Problem solving as search & Uninformed search strategies [slides](https://www.dropbox.com/s/bu5u9pvylljla5b/Lecture2.pdf?dl=0) [annotated slides](https://www.dropbox.com/s/dw1br931tpqefeg/Lecture2_annotated.pdf?dl=0) | Chapter 3 | |
 | 3 | 1/17 | Uninformed search strategies [slides](https://www.dropbox.com/s/7rjsh7lytq7tdhj/Lecture3.pdf?dl=0) [annotated slides](https://www.dropbox.com/s/5h82k731ben4cvi/Lecture3_annotated.pdf?dl=0)| Chapter 3 | HW1 Out |
 | 4 | 1/19 | Informed search strategies [slides](https://www.dropbox.com/s/bji1ofmklhb21um/Lecture4.pdf?dl=0) [annotated slides](https://www.dropbox.com/s/od0eeks6wjcne5j/Lecture4_annotated.pdf?dl=0)| Chapter 3 |  |
-| 5 | 1/24 | Local Search Algorithms [slides](https://www.dropbox.com/s/ao22oiqeuza4v0y/Lecture5.pdf?dl=0) | Chapter 4 | HW1 Due, HW2 Out|
-| 6 | 1/26 | [Constraint satisfaction]() | Chapter 6 | |
+| 5 | 1/24 | Local Search Algorithms [slides](https://www.dropbox.com/s/ao22oiqeuza4v0y/Lecture5.pdf?dl=0) [annotated slides]() | Chapter 4 | HW1 Due, HW2 Out|
+| 6 | 1/26 | Constraint satisfaction [slides](https://www.dropbox.com/s/kijf8p1lkg934tx/Lecture6.pdf?dl=0) | Chapter 6 | |
 | 7 | 1/31 | [Constraint satisfaction]() | Chapter 6 | HW2 Due, HW3 Out|
 | 8 | 2/2 | [Constraint satisfaction]() | Chapter 6 | |
 | 9 | 2/7 | [Game playing]() | Chapter 5 |  |
