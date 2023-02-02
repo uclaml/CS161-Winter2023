@@ -69,7 +69,7 @@ Grades will be computed based on the following factors:
 | 6 | 1/26 | Constraint satisfaction [slides](https://www.dropbox.com/s/kijf8p1lkg934tx/Lecture6.pdf?dl=0) [annotated slides](https://www.dropbox.com/s/rth9ww6u5x7fpwy/Lecture6_annotated.pdf?dl=0) | Chapter 6 | |
 | 7 | 1/31 | Constraint satisfaction [slides](https://www.dropbox.com/s/kijf8p1lkg934tx/Lecture6.pdf?dl=0) [annotated slides] | Chapter 6 | HW2 Due, HW3 Out|
 | 8 | 2/2 | Constraint satisfaction [slides](https://www.dropbox.com/s/kijf8p1lkg934tx/Lecture6.pdf?dl=0) [annotated slides] | Chapter 6 | |
-| 9 | 2/7 | [Game playing]() | Chapter 5 |  |
+| 9 | 2/7 | Game playing [slides](https://www.dropbox.com/s/4xk6cmah4v4uprf/Lecture7.pdf?dl=0) | Chapter 5 |  |
 | 10 | 2/9 | [Game playing]() | Chapter 5 | Hw4 Out |
 | 11 | 2/14 | [Propositional logic]() | Chapter 7 | HW3 Due |
 |  | 2/16 | [Midterm Exam]() | | |
