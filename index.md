@@ -71,16 +71,16 @@ Grades will be computed based on the following factors:
 | 8 | 2/2 | Constraint satisfaction [slides](https://www.dropbox.com/s/kijf8p1lkg934tx/Lecture6.pdf?dl=0) [annotated slides](https://www.dropbox.com/s/y8b16mv1gatcs4q/Lecture6_annotated.pdf?dl=0) | Chapter 6 | |
 | 9 | 2/7 | Game playing [slides](https://www.dropbox.com/s/4xk6cmah4v4uprf/Lecture7.pdf?dl=0) [annotated slides](https://www.dropbox.com/s/xuf29vj18o3ur2y/Lecture7%20annotated.pdf?dl=0) | Chapter 5 |  |
 | 10 | 2/9 | Game playing [slides](https://www.dropbox.com/s/4xk6cmah4v4uprf/Lecture7.pdf?dl=0) [annotated slides](https://www.dropbox.com/s/xuf29vj18o3ur2y/Lecture7%20annotated.pdf?dl=0)| Chapter 5 | Hw4 Out |
-| 11 | 2/14 | Propositional logic [slides](https://www.dropbox.com/s/2je9sdo3ylfi2sz/Lecture8.pdf?dl=0) [annotated slides]() | Chapter 7 | HW3 Due |
-|  | 2/16 | [Midterm Exam]() | | |
-| 12 | 2/21 | [Propositional logic]() | Chapter 7 | HW5 Out |
-| 13 | 2/23 | [Propositional logic]() | Chapter 7 | HW4 Due |
-| 14 | 2/28 | [First-order logic: representation]() | Chapter 8 |  |
-| 15 | 3/2 | [First-order logic: representation]() | Chapter 8 | HW5 Due, HW6 Out|
-| 16 | 3/7 | [First-order logic: inference]() | Chapter 9 |  |
-| 17 | 3/9 | [Reasoning under uncertainty]() | Chapter 11 |   |
-| 18 | 3/14 | [Bayesian Networks I]() | Chapter 13 | |
-| 19 | 3/16 | [Bayesian Networks II]() | Chapter 13 | HW6 Due |
+| 11 | 2/14 | Propositional logic [slides](https://www.dropbox.com/s/2je9sdo3ylfi2sz/Lecture8.pdf?dl=0) [annotated slides](https://www.dropbox.com/s/qd1p9i8exzgj9s7/Lecture8_annotated.pdf?dl=0) | Chapter 7 | HW3 Due |
+|  | 2/16 | Midterm Exam | | |
+| 12 | 2/21 | Propositional logic [slides]() | Chapter 7 | HW5 Out |
+| 13 | 2/23 | Propositional logic [slides]() | Chapter 7 | HW4 Due |
+| 14 | 2/28 | First-order logic: representation [slides]() | Chapter 8 |  |
+| 15 | 3/2 |  First-order logic: representation [slides]() | Chapter 8 | HW5 Due, HW6 Out|
+| 16 | 3/7 |  First-order logic: inference [slides]() | Chapter 9 |  |
+| 17 | 3/9 | Reasoning under uncertainty [slides]() | Chapter 11 |   |
+| 18 | 3/14 | Bayesian Networks I [slides]() | Chapter 13 | |
+| 19 | 3/16 | Bayesian Networks II [slides]() | Chapter 13 | HW6 Due |
 |  | 3/22 | 3:00PM-6:00PM Final Exam | |  |
 
 ## Academic Integrity Policy
