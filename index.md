@@ -76,7 +76,7 @@ Grades will be computed based on the following factors:
 | 12 | 2/21 | Propositional logic [slides](https://www.dropbox.com/s/2je9sdo3ylfi2sz/Lecture8.pdf?dl=0) [annotated slides](https://www.dropbox.com/s/mp1aqdap2ebrpkd/Lecture8_annotated.pdf?dl=0) | Chapter 7 | HW5 Out |
 | 13 | 2/23 | First-order logic: representation [slides](https://www.dropbox.com/s/lb58bkbkp7w1toa/Lecture9.pdf?dl=0) | Chapter 8 | HW4 Due |
 | 14 | 2/28 | First-order logic: representation [slides](https://www.dropbox.com/s/lb58bkbkp7w1toa/Lecture9.pdf?dl=0) | Chapter 8 |  |
-| 15 | 3/2 |  First-order logic: inference [slides]() | Chapter 9 | HW5 Due, HW6 Out|
+| 15 | 3/2 |  First-order logic: inference [slides](https://www.dropbox.com/s/ohytnwu6b9l2wj9/Lecture10.pdf?dl=0) | Chapter 9 | HW5 Due, HW6 Out|
 | 16 | 3/7 | Reasoning under uncertainty  [slides]() | Chapter 11 |  |
 | 17 | 3/9 |  Bayesian Networks I [slides]() | Chapter 13 |   |
 | 18 | 3/14 | Bayesian Networks II [slides]() | Chapter 13 | |
